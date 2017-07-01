@@ -1,0 +1,19 @@
+{
+"name": "mbedtls-ESP8266",
+"frameworks": "Arduino",
+"keywords": "mbed, crypto, cryptography, hashing, encryption, decryption, authentication, security",
+"description": "mbedtls (a crypto library) ported to the ESP8266 Arduino platform",
+"url": "https://github.com/TerpDAC/mbedtls-esp8266-arduino",
+"authors":
+[
+{
+        "name": "MicSense Team / Terrapin Development and Consulting"
+}
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/TerpDAC/mbedtls-esp8266-arduino"
+}
+}
+
